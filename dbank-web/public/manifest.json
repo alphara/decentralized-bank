@@ -1,6 +1,6 @@
 {
-  "short_name": "Joke Funnier",
-  "name": "AI Evoking Laugh",
+  "short_name": "Decentralized Bank",
+  "name": "Quantum Computing AI Ledger",
   "icons": [
     {
       "src": "images/favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "images/logo192.png",
+      "src": "images/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/logo512.png",
+      "src": "images/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }

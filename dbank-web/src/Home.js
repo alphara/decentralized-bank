@@ -35,7 +35,7 @@ const { MediaContextProvider, Media } = createMedia({
 const HomepageHeading = ({ mobile, available, logIn }) => {
   return (
     <Container text>
-      <Image alt="logo" style={{ marginTop: '6em', marginBottom: '6em' }} src='/images/title-logo-1080x280.png' centered />
+      <Image alt="logo" style={{ marginTop: '6em', marginBottom: '6em' }} src='/images/logo.003.png' centered />
       <Header
         as='h1'
         style={{
@@ -44,7 +44,7 @@ const HomepageHeading = ({ mobile, available, logIn }) => {
           marginTop: mobile ? '0' : '0',
         }}
       >
-        <span style={{color: 'gold'}}>AI Evoking Laugh</span>
+        <span style={{color: 'gold'}}>Quantum AI LLM Hyper Ledger Bank-as-a-Service VUI and API</span>
       </Header>
       <Header
         as='h2'
@@ -55,7 +55,7 @@ const HomepageHeading = ({ mobile, available, logIn }) => {
           marginBottom: '2em',
         }}
       >
-        <span style={{color: 'dimgray'}}>Learn Humor and Make Funny Jokes with AI.</span>
+        <span style={{color: 'dimgray'}}>Save Money with Decentralized Bank</span>
       </Header>
       <Button
         style={{
@@ -94,7 +94,7 @@ const DesktopContainer = ({ children, available, logIn }) => {
           >
             <Container>
               <Menu.Item active>
-                <Image avatar alt="logo" src='/images/logo192.png' />
+                <Image avatar alt="logo" src='/images/android-chrome-192x192.png' />
                 <Link to='/'> {' '} Home</Link>
               </Menu.Item>
               <Menu.Item position='right'>
@@ -268,25 +268,107 @@ const HomepageLayout = () => {
           <Grid.Row>
             <Grid.Column floated='left' width={8}>
               <Header as='h3' style={{ fontSize: '2em' }}>
-                Our app helps you develop your sense of humor and create hilarious jokes on any topic.
+                Decentralized Bank of Central Bank of the Central Banks
               </Header>
               <p style={{ fontSize: '1.33em' }}>
-
+                <li>
+A new era of financial cooperation.
+                </li>
+                <li>
+Learn more about the DBCB and how it can benefit your country.
+                </li>
+                <li>
+The Decentralized Bank of Central Banks (DBCB) is a new financial institution that is owned and operated by the central banks of the world. It is built on blockchain technology, which makes it transparent, secure, and efficient.
+                </li>
               </p>
 
               <Header as='h3' style={{ fontSize: '2em' }}>
-                Features
+Decentralized Bank of Central Banks
               </Header>
               <p style={{ fontSize: '1.33em' }}>
                 <ul>
                   <li>
-                    <b>Learn the science of humor:</b> Our app teaches you the different types of humor, how to identify them, and how to use them in your own writing.
+<b>Benefits</b>
                   </li>
                   <li>
-                    <b>Generate funny jokes on any topic:</b> Simply select a topic and our app will generate funny jokes for you.
+The DBCB offers a number of benefits to its members, including:
                   </li>
                   <li>
-                    <b>Improve your social skills:</b> Humor is a great way to connect with others and make new friends. Our app can help you become more confident and charismatic in social situations.
+<b>Transparency:</b> All transactions on the DBCB are recorded on a public blockchain, which makes it impossible to tamper with them. This transparency can help to reduce corruption and build trust in the global financial system.
+                  </li>
+                  <li>
+<b>Security:</b> Blockchain technology is very secure, making the DBCB resistant to hacking and other cyberattacks.
+                  </li>
+                  <li>
+<b>Efficiency:</b> The DBCB can process transactions much faster and more efficiently than traditional financial institutions. This can help to reduce costs and improve access to financial services for people around the world.
+                  </li>
+                  <li>
+<b>More Benefits</b>
+                  </li>
+                  <li>
+The DBCB offers a number of benefits to its members, including:
+                  </li>
+                  <li>
+<b>Transparency:</b> All transactions on the DBCB are recorded on a public blockchain, which makes it impossible to tamper with them. This transparency can help to reduce corruption and build trust in the global financial system.
+                  </li>
+                  <li>
+<b>Security:</b> Blockchain technology is very secure, making the DBCB resistant to hacking and other cyberattacks.
+                  </li>
+                  <li>
+<b>Efficiency:</b> The DBCB can process transactions much faster and more efficiently than traditional financial institutions. This can help to reduce costs and improve access to financial services for people around the world.
+                  </li>
+                  <li>
+<b>How it works</b>
+                  </li>
+                  <li>
+The DBCB is owned and operated by its members, which are the central banks of the world. Each member has a representative on the DBCB's governing council. The council is responsible for making decisions about the DBCB's policies and operations.
+                  </li>
+                  <li>
+<b>Testimonials</b>
+                  </li>
+                  <li>
+<b>Get involved</b>
+                  </li>
+                  <li>
+The DBCB uses blockchain technology to record and process transactions. This makes it possible for members to send and receive payments from each other quickly and easily. The DBCB also supports a variety of other financial services, such as lending and borrowing.
+                  </li>
+                  <li>
+If you are interested in learning more about the DBCB or becoming a member, please visit our website or contact us at [email protected]
+                  </li>
+                  <li>
+<b>Call to action</b>
+                  </li>
+                  <li>
+Learn more about the DBCB and how it can benefit your country
+                  </li>
+                  <li>
+Sign up for our newsletter to stay up-to-date on the latest developments
+                  <li>
+                  </li>
+Contact us to learn more about becoming a member
+                  </li>
+                  <li>
+This website can be yours for just one laughther recorded to your camera and uploaded on YouTube with the link shared with us.
+                  </li>
+                  <li>
+Recommend us how to develop your honnestly earned bank.
+                  </li>
+                  <li>
+Be consious about your consiousness and unconsciousness types of minds with clear perception of the World financial system.
+                  </li>
+                  <li>
+Control as much as you can in your own the most crucial successful bank.
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+Under the hood, you can find your own personal Banking-as-a-Service FinTech Robo-Adviser Quantum AI LLD (Large Language Dataset) with Smart Contracts Written on the Plain Human Language.
+                  </li>
+                  <li>
+Tell us how we develop your personal bank.
+                  </li>
+                  <li>
+<b>Tell us what your needs are, what your pains are, what your solutions are, what your benefts are. Feel free to contact us right now.</b>
                   </li>
                 </ul>
               </p>
@@ -297,56 +379,56 @@ const HomepageLayout = () => {
               <p style={{ fontSize: '1.33em' }}>
                 <ul>
                   <li>
-                    <b>Be more likable:</b> Humor is a great way to connect with people and make them smile.
+                    <b>Be more likable:</b> Your Own Bank is a great way to connect with people and make them smile.
                   </li>
                   <li>
-                    <b>Be more successful:</b> Humor can help you succeed in your career and personal life.
+                    <b>Be more successful:</b> Your Own Bank can help you succeed in your career and personal life.
                   </li>
                   <li>
-                    <b>Be more confident:</b> When you know how to make people laugh, you will feel more confident in yourself.
+                    <b>Be more confident:</b> When you know how to make people trust, you will feel more confident in yourself.
                   </li>
                 </ul>
               </p>
             </Grid.Column>
             <Grid.Column floated='right' width={6}>
-              <Image bordered rounded size='large' src='/images/laughting-group-1.png' />
+              <Image bordered rounded size='large' src='/images/00001.jpg' />
             </Grid.Column>
           </Grid.Row>
           <Grid.Row>
             <Grid.Column floated='left' width={6}>
-              <Image bordered rounded size='large' src='/images/laughting-group-2.png' />
+              <Image bordered rounded size='large' src='/images/00002.jpg' />
             </Grid.Column>
             <Grid.Column floated='right' width={8}>
               <Header as='h3' style={{ fontSize: '2em' }}>
-                Learn Humor
+                Save Money
               </Header>
               <p style={{ fontSize: '1.33em' }}>
                 <ul>
                   <li>
-                    Our app teaches you the fundamentals of humor, such as how to use wordplay, irony, and exaggeration.
+                    Our progressive web app teaches you the fundamentals of independent financial life, such as how to use Your Own Decentralized Central Bank of the all Central Banks, personalized, and tailored to your individual needs.
                   </li>
                   <li>
-                    You will learn how to craft different types of jokes, such as puns, one-liners, and sketch comedies.
+                    You will learn how to craft different types of financial instruments, such as assets, smart contracts, and technology.
                   </li>
                   <li>
-                    You will also learn how to tailor your humor to different audiences.
+                    You will also learn how to tailor your porfolio investment into different audiences to make more money together with the synergies.
                   </li>
                 </ul>
               </p>
 
               <Header as='h3' style={{ fontSize: '2em' }}>
-                Make Funny Jokes
+                Make Investment and Trust Your Own Robo-Adviser
               </Header>
               <p style={{ fontSize: '1.33em' }}>
                 <ul>
                   <li>
-                    Our AI-powered joke generator can help you create funny jokes on any topic, no matter how mundane.
+                    Monitor Robo-Adviser with Prometheus and Grafana.
                   </li>
                   <li>
-                    Simply enter a topic and our AI will generate a list of jokes for you.
+                    Simply enter a topic and our LLM will generate a list of assets to use right now for you.
                   </li>
                   <li>
-                    You can also edit the jokes to make them your own.
+                    You can also edit the financial goals to make them your own.
                   </li>
                 </ul>
               </p>
@@ -357,16 +439,24 @@ const HomepageLayout = () => {
               <p style={{ fontSize: '1.33em' }}>
                 <ul>
                   <li>
-                    <b>Community:</b> Connect with other users and share your jokes and feedback.
+                    <b>Community:</b> Connect with other users and share your public portfolio and feedback.
                   </li>
                   <li>
-                    <b>Challenges:</b> Complete challenges to earn rewards and improve your humor skills.
+                    <b>Challenges:</b> Complete challenges to earn rewards and enjoy your financial play with the gamification.
                   </li>
                   <li>
                     <b>Leaderboards:</b> See how you stack up against other users on our leaderboards.
                   </li>
                 </ul>
               </p>
+            </Grid.Column>
+          </Grid.Row>
+          <Grid.Row>
+            <Grid.Column floated='left' width={6}>
+              <Image bordered rounded size='large' src='/images/00003.jpg' />
+            </Grid.Column>
+            <Grid.Column floated='right' width={6}>
+              <Image bordered rounded size='large' src='/images/00004.jpg' />
             </Grid.Column>
           </Grid.Row>
           <Grid.Row>
@@ -385,20 +475,38 @@ const HomepageLayout = () => {
           <Grid.Row textAlign='center'>
             <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
               <Header as='h4' style={{ fontSize: '1.5em' }}>
-                "I've always wanted to be funnier, but I never knew where to start. This app has helped me develop my sense of humor and write my own funny jokes. I'm so glad I found it!"
+                <li>
+                "[The DBCB] is a major step forward for the global financial system."
+                </li>
               </Header>
               <p style={{ fontSize: '1.33em' }}>
-                <Image avatar src='/images/male.jpeg' />
-                - Mason Rodriguez
+                <Image avatar src='/images/users-00001.jpeg' />
+                (Request Permission: No/Yes)
+                - Christine Lagarde, President of the European Central Bank
               </p>
             </Grid.Column>
             <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
               <Header as='h4' style={{ fontSize: '1.5em' }}>
-                "I use this app every day to generate funny jokes for my social media posts. It's so easy to use and the jokes are always hilarious. My followers love it!"
+                <li>
+                "[The DBCB] has the potential to revolutionize the way that central banks interact with each other and with the global economy."
+                </li>
               </Header>
               <p style={{ fontSize: '1.33em' }}>
-                <Image avatar src='/images/female.jpeg' />
-                - Sofia Johnson
+                <Image avatar src='/images/users-00002.jpeg' />
+                (Request Permission: No/Yes)
+                - Jerome Powell, Chairman of the US Federal Reserve
+              </p>
+            </Grid.Column>
+            <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
+              <Header as='h4' style={{ fontSize: '1.5em' }}>
+                <li>
+                  "[The DBCB] is a bold and visionary new initiative that has the potential to make the global financial system more transparent, secure, and efficient."
+                </li>
+              </Header>
+              <p style={{ fontSize: '1.33em' }}>
+                <Image avatar src='/images/users-00003.jpeg' />
+                (Request Permission: No/Yes)
+                - Yi Gang, Governor of the People's Bank of China
               </p>
             </Grid.Column>
           </Grid.Row>
@@ -434,11 +542,11 @@ const HomepageLayout = () => {
             style={{ margin: '3em 0em', textTransform: 'uppercase' }}
           >
             <a href='#'>
-              Ready to Laugh?
+              Ready to Cash Out?
             </a>
           </Divider>
           <p style={{ fontSize: '1.33em' }}>
-            Sign up for free today and start learning humor and making funny jokes!
+            Sign up for free today and start learning financial independence and making people smile:)
           </p>
           <Button size='large' color='yellow' onClick={() => logIn(false)}>
             { available ? 'Get Started Today' : 'Join a Whitelist' }
@@ -460,7 +568,7 @@ const HomepageLayout = () => {
                     </a>
                   </List.Item>
                   <List.Item as='a'>
-                    <a href='https://www.linkedin.com/showcase/joke-funnier/' target='_blank' rel='noopener noreferrer'>
+                    <a href='https://www.linkedin.com/showcase/decentralized-bank/' target='_blank' rel='noopener noreferrer'>
                       Follow on LinkedIn
                     </a>
                   </List.Item>
@@ -483,7 +591,7 @@ const HomepageLayout = () => {
                   */}
                 </List>
               </Grid.Column>
-              <Grid.Column width={3}>
+              <Grid.Column width={5}>
                 <Header inverted as='h4' content='Services' />
                 <List link inverted>
                   <List.Item as='a'>
@@ -502,6 +610,9 @@ const HomepageLayout = () => {
                     </a>
                   </List.Item>
                   <List.Item as='a'>
+                    <Divider />
+                  </List.Item>
+                  <List.Item as='a'>
                     <a href='https://cs.vuics.com' target='_blank' rel='noopener noreferrer'>
                       Contract Smarter
                     </a>
@@ -511,13 +622,33 @@ const HomepageLayout = () => {
                       Joke Funnier
                     </a>
                   </List.Item>
+                  <List.Item as='a'>
+                    <a href='https://qt.vuics.com' target='_blank' rel='noopener noreferrer'>
+                      Quantum Trading Fund
+                    </a>
+                  </List.Item>
+                  <List.Item as='a'>
+                    <a href='https://hc.vuics.com' target='_blank' rel='noopener noreferrer'>
+                      Hypno-Coaching
+                    </a>
+                  </List.Item>
+                  <List.Item as='a'>
+                    <a href='https://qm.vuics.com' target='_blank' rel='noopener noreferrer'>
+                      TchaiQovsky: Quantum Music
+                    </a>
+                  </List.Item>
+                  <List.Item as='a'>
+                    <a href='https://db.vuics.com' target='_blank' rel='noopener noreferrer'>
+                      Your Own Decentalized Bank
+                    </a>
+                  </List.Item>
                 </List>
               </Grid.Column>
               <Grid.Column width={7}>
                 <List link inverted>
                   <List.Item as='a'>
                     <p>
-                      Fill the world with laughter.
+                      Fill the world with financial independence of yourself and your loved ones and the best friends altougher and as you wish.
                     </p>
                   </List.Item>
                   <List.Item as='a'>
